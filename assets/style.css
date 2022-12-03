@@ -1,5 +1,5 @@
 :root {
-  --primary-color:#1c8591;
+  --primary-color:#2406a8;
 }
 
 * {
@@ -9,7 +9,7 @@
   }
 
 body {
-    color: #1c9139;
+    color: #05076b;
     font-family: Helvetica, Arial, sans-serif;
     background-color: rgb(229, 232, 238);
   }
@@ -107,7 +107,7 @@ section {
 .section-title {
   font-size: 35px;
   font-family:cursive;
-  color: #044a2b;
+  color: #280aad;
   margin: 0 0 0 80px;
   width: 50%;
 }
@@ -120,7 +120,7 @@ section {
 }
 
 .vl-border1 {
-  border-right: 3px solid #39a6b2;
+  border-right: 3px solid #393bb2;
   height: 150px;
   flex: 2 1%;
 }
@@ -139,7 +139,7 @@ section {
 }
 
 .vl-border2{
-  border-right: 3px solid #39a6b2;
+  border-right: 3px solid #280aad;
   height: 450px;
   flex: 2 5%;  
   
@@ -222,7 +222,7 @@ grid-row-end: 4;
 
 /*About section style*/
 .vl-border3 {
-  border-right: 3px solid #39a6b2;
+  border-right: 3px solid #280aad;
   height: 100px;
   flex: 2 5%;
  
