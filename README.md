@@ -13,4 +13,4 @@ For this weeks challenge we used HTML and CSS with no code to build an employee 
 * When making each section I made sure that you can click on the link and it will take you to the appropriate section on the page. 
 * I included an avatar of myself. 
 * Contact information includes phone number, email,  website, linkedin, and instagram. 
-
+* Website to finished product: https://hussrizk56.github.io/Portfolio/
