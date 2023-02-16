@@ -16,7 +16,9 @@ For this weeks challenge we used HTML and CSS with no code to build an employee 
 
 ## Screen Shot:
 
-<img src="hussr.jpg" width="500px"/> 
+<div>
+        <img src="./assets/images/hussr.jpg" width="500px"/> 
+     </div>
 
 ## Link:
 
